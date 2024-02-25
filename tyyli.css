@@ -2,8 +2,12 @@ body {
     background-color: #51230C;
 }
 
-h1{
+h1 {
     color:antiquewhite;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: antiquewhite;
 }
