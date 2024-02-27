@@ -2,17 +2,6 @@ body {
     background-color: #51230C;
 }
 
-header{
-    text-align: center;
-    padding-top: 30px;
-}
-
-nav a {
-    color: antiquewhite;
-    text-decoration: none;
-    display: inline-block;
-}
-
 h1 {
     color:antiquewhite;
     text-align: center;
@@ -26,6 +15,17 @@ p {
 h2, h3, h4 {
     color: antiquewhite;
     text-align: left;
+}
+
+header{
+    text-align: center;
+    padding-top: 30px;
+}
+
+nav a {
+    color: antiquewhite;
+    text-decoration: none;
+    display: inline-block;
 }
 
 nav a:hover {
