@@ -37,11 +37,6 @@ nav a:hover {
     background-color: #42b8d3;
 }
 
-#valittu {
-    color: #6060ba;
-    background-color: antiquewhite;
-}
-
 /*Suuri näyttö*/
 @media screen and (min-width: 1200px) {
 
