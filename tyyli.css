@@ -30,6 +30,7 @@ nav a {
     display: inline-block;
     background:#6060ba;
     border: 2px solid #6060ba;
+    font-family: cursive;
 }
 
 nav a:hover {
