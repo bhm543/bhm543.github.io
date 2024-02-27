@@ -27,3 +27,8 @@ h2, h3, h4 {
     color: antiquewhite;
     text-align: left;
 }
+
+nav a:hover {
+    color:antiquewhite;
+    background-color: #6060ba;
+}
