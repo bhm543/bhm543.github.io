@@ -23,15 +23,7 @@ p {
     color: antiquewhite;
 }
 
-h2 {
+h2, h3, h4 {
     color: antiquewhite;
     text-align: right;
-}
-
-h3 {
-    color: antiquewhite;
-}
-
-h4 {
-    color: antiquewhite;
 }
