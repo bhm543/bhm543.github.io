@@ -8,7 +8,9 @@ header{
 }
 
 nav a {
-    
+    color: antiquewhite;
+    text-decoration: none;
+    display: inline-block;
 }
 
 h1 {
