@@ -26,6 +26,8 @@ nav a {
     color: antiquewhite;
     text-decoration: none;
     display: inline-block;
+    background:#6060ba;
+    border: 2px solid #6060ba;
 }
 
 nav a:hover {
