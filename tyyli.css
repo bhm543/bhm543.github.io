@@ -43,6 +43,20 @@ nav a:hover {
     background-color: #6060bad0;
 }
 
+.toimintakehote{
+    border: 2px solid #6060ba;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    font-family: cursive;
+    color: #6060ba;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 /*Footer, joka sivulla sama*/
 footer{
     font-family: sans-serif;
