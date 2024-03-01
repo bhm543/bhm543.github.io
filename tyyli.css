@@ -28,19 +28,19 @@ nav a {
     color: antiquewhite;
     text-decoration: none;
     display: inline-block;
-    background:#6060ba;
-    border: 2px solid #6060ba;
+    background:#51230C;
+    border: 2px solid #51230C;
     font-family: cursive;
 }
 
 nav a:hover {
-    color: #6060ba;
-    background-color: #42b8d3;
+    color: antiquewhite;
+    background-color:#6060ba;
 }
 
 #valittu {
-    color: #6060ba;
-    background-color: #faebd7;
+    color: antiquewhite;
+    background-color: #6060bad0;
 }
 
 /*Footer, joka sivulla sama*/
