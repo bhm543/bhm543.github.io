@@ -86,7 +86,6 @@ nav a {
 footer{
     flex-direction: row;
     text-align: left;
-    bottom: 0;
     width: 100%;
 }
 
