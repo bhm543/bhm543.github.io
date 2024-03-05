@@ -22,20 +22,6 @@ header{
     padding-top: 30px;
 }
 
-/*Some ikoni*/
-
-.fa {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    background-color: #6060ba;
-    color: antiquewhite;
-}
-
-.fa :hover {
-    opacity: 0.6;
-}
-
 /*päävalikko*/
 
 nav a {
@@ -80,6 +66,20 @@ footer{
     display: flex;
     justify-content: space-around;
 
+}
+
+/*Some ikoni*/
+
+.fa {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #6060ba;
+    color: antiquewhite;
+}
+
+.fa :hover {
+    opacity: 0.6;
 }
 
 /*Suuri näyttö*/
