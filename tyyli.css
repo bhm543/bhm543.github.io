@@ -109,8 +109,6 @@ footer{
     flex-direction: row;
     text-align: left;
     width: 100%;
-    bottom: 0;
-    max-height: 15%;
 }
 
 .toimintakehote {
