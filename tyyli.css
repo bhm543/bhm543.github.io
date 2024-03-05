@@ -1,19 +1,19 @@
 body {
-    background-color: #51230C;
+    background-color: antiquewhite;
 }
 
 h1 {
-    color:antiquewhite;
+    color: #51230c;
     text-align: center;
     font-family: sans-serif;
 }
 
 p {
-    color: antiquewhite;
+    color: #51230c;
 }
 
 h2, h3, h4 {
-    color: antiquewhite;
+    color: #51230c;
     text-align: left;
 }
 
@@ -25,7 +25,7 @@ header{
 /*päävalikko*/
 
 nav a {
-    color: antiquewhite;
+    color: #51230c;
     text-decoration: none;
     display: inline-block;
     background:#6060ba;
@@ -34,12 +34,12 @@ nav a {
 }
 
 nav a:hover {
-    color: antiquewhite;
+    color: #51230c;
     background-color:#6060bae0;
 }
 
 #valittu {
-    color: antiquewhite;
+    color: #51230c;
     background-color: #6060bad0;
 }
 
