@@ -32,6 +32,10 @@ header{
     color: antiquewhite;
 }
 
+.fa :hover {
+    opacity: 0.6;
+}
+
 /*päävalikko*/
 
 nav a {
