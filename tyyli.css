@@ -75,11 +75,11 @@ footer{
     text-align: center;
     text-decoration: none;
     background-color: #6060ba;
-    color: antiquewhite;
+    color: #51230c;
 }
 
 .fa :hover {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 /*Suuri näyttö*/
