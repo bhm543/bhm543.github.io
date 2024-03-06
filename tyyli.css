@@ -57,6 +57,17 @@ nav a:hover {
     cursor: pointer;
 }
 
+/*Pääsivun sisällön asettelu*/
+.grid-teksti1 {grid-area: g1;}
+.grid-teksti2 {grid-area: g2;}
+.grid-teksti3 {grid-area: g3;}
+
+.grid-container {
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+}
+
 /*Footer, joka sivulla sama*/
 footer{
     font-family: sans-serif;
@@ -106,12 +117,18 @@ nav a {
     padding-right: 200px;
 }
 
+.toimintakehote {
+    font-size: 20px;
+}
+
+#paasivu {
+    grid-template-areas: 
+    'g1 g2 g3'
+    'g1 g2 g3';
+}
+
 footer{
     flex-direction: row;
     text-align: left;
     width: 100%;
-}
-
-.toimintakehote {
-    font-size: 20px;
 }
