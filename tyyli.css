@@ -1,5 +1,6 @@
 body {
     background-color: antiquewhite;
+    font-size: 16px;
 }
 
 h1 {
@@ -10,7 +11,6 @@ h1 {
 
 p {
     color: #51230c;
-    font-size: medium;
 }
 
 h2, h3, h4 {
