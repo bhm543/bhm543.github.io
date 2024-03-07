@@ -27,8 +27,8 @@ header{
 nav a {
     color: #51230c;
     text-decoration: none;
-    display: flex;
-    background:#6060ba;
+    display:inline-block;
+    border-bottom: #6060ba;
     font-family: cursive;
 }
 
