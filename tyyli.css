@@ -114,11 +114,13 @@ footer{
 
 }
 
+/*Mobiilikoko*/
+@media (max-width: 600px) {
+    
+}
 
 /*Suuri näyttö*/
 @media screen and (min-width: 1200px) {
-
-}
 
 nav a {
     font-size: 20px;
@@ -167,4 +169,6 @@ footer{
     flex-direction: row;
     text-align: left;
     width: 100%;
+}
+
 }
