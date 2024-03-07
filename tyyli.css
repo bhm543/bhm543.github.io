@@ -1,6 +1,5 @@
 body {
     background-color: antiquewhite;
-    font-size: 16px;
 }
 
 h1 {
@@ -13,7 +12,7 @@ p {
     color: #51230c;
 }
 
-h2, h3, h4 {
+h2, h3 {
     color: #51230c;
     text-align: left;
 }
@@ -144,6 +143,19 @@ footer{
         flex-direction: column;
     }
 
+    h1 {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+
 }
 
 /*Suuri näyttö*/
@@ -176,6 +188,18 @@ nav a {
 .alisivu-sisalto {
     margin: 3% 5% 3% 5%;
     padding-top: 100px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
 }
 
 #paasivu {
