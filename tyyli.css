@@ -155,7 +155,12 @@ footer{
         font-size: 18px;
     }
 
-
+    #paasivu {
+        grid-template-areas: 
+        'g1'
+        'g2'
+        'g3';
+    }
 }
 
 /*Suuri näyttö*/
