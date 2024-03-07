@@ -151,9 +151,9 @@ nav a {
 .grid-tuntisivu {
     grid-template-areas: 
     'g1-h1 g1-h1 g2-hk1'
-    'g3 g3 g3'
-    'g4 g4 g4'
-    'g5 g5 g5';
+    'g1 g2 g3'
+    'g1 g2 g3'
+    'g1 g2 g3';
     margin-bottom: 50px;
 }
 
