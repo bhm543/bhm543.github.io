@@ -89,11 +89,9 @@ nav a:hover {
 }
 
 /*Tunnit välilehden asettelu*/
-.grid-tunnit1 {grid-area: g1-h1;}
-.grid-maisema2-kuva {grid-area: g2-hk1;}
-.grid-yin {grid-area: g3;}
-.grid-rentoutus {grid-area: g4;}
-.grid-EFT {grid-area: g5;}
+.grid-tunnit1 {grid-area: g1;}
+.grid-maisema2-kuva {grid-area: g2;}
+.grid-muut-tunnit {grid-area: g3;}
 
 .grid-tuntisivu {
     display: grid;
@@ -150,10 +148,8 @@ nav a {
 
 .grid-tuntisivu {
     grid-template-areas: 
-    'g1-h1 g1-h1 g2-hk1'
-    'g3 g4 g5'
-    'g6 g7 g8'
-    'g9 g10 g11';
+    'g1 g1 g2'
+    'g3 g3 g3';
     margin-bottom: 50px;
 }
 
