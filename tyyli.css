@@ -149,7 +149,7 @@ nav a {
 .grid-tuntisivu {
     grid-template-areas: 
     'g1 g1 g2'
-    'g3 g3 g2';
+    'g3 g3 g3';
     margin-bottom: 50px;
 }
 
