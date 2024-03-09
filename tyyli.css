@@ -98,6 +98,10 @@ nav a:hover {
     color: #6060ba;
 }
 
+.fa:hover {
+    opacity: 0.6;
+}
+
 /*Tunnit välilehden asettelu*/
 .grid-tunnit1 {grid-area: g1;}
 .grid-maisema2-kuva {grid-area: g2;}
