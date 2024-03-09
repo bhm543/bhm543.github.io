@@ -89,6 +89,15 @@ nav a:hover {
     color:antiquewhite;
 }
 
+/*Some ikoni*/
+.fa {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: antiquewhite;
+    color: #B260B2;
+}
+
 /*Tunnit välilehden asettelu*/
 .grid-tunnit1 {grid-area: g1;}
 .grid-maisema2-kuva {grid-area: g2;}
