@@ -165,6 +165,21 @@ footer{
         'g3'
         'g3';
     }
+
+    .grid-tuntisivu {
+        grid-template-areas:
+        'g1'
+        'g1'
+        'g2'
+        'g3'
+        'g3'
+        'g3';
+    }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
 }
 
 /*Suuri näyttö*/
