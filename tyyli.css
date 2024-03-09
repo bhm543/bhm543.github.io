@@ -23,6 +23,20 @@ header{
     padding-top: 20px;
 }
 
+/*Some ikoni*/
+.fa {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #42b8d3c5;
+    color: #6060ba;
+    font-size: 18px;
+}
+
+.fa:hover {
+    opacity: 0.6;
+}
+
 /*päävalikko*/
 
 nav a {
@@ -87,20 +101,6 @@ nav a:hover {
     border-radius: 3px;
     background-color: #B260B2;
     color:antiquewhite;
-}
-
-/*Some ikoni*/
-.fa {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    background-color: #42b8d3c5;
-    color: #6060ba;
-    font-size: 18px;
-}
-
-.fa:hover {
-    opacity: 0.6;
 }
 
 /*Tunnit välilehden asettelu*/
