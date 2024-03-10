@@ -269,11 +269,6 @@ nav a {
 
 /*Suuri näyttö*/
 @media screen and (min-width: 1200px) {
-    #etusivu {
-        background-image: url(pexelspixabay.jpg);
-        background-size: cover;
-        height: 950px;
-    }
 
 nav a {
     font-size: 20px;
