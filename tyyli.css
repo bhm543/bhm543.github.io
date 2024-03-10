@@ -57,7 +57,7 @@ nav a {
     text-decoration: none;
     display:inline-block;
     border-bottom: #6060ba;
-    font-family: cursive;
+    font-family: otsikko;
 }
 
 nav a:hover {
