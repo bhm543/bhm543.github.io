@@ -3,19 +3,27 @@ body {
     font-size: 16px;
 }
 
+/*Fontit*/
+@font-face {
+    font-family: otsikko;
+    src: url(Comfortaa-Regular.ttf);
+}
+
 h1 {
     color: #51230c;
     text-align: center;
-    font-family: sans-serif;
+    font-family: otsikko;
 }
 
 p {
     color: #51230c;
+    font-family: otsikko;
 }
 
 h2, h3 {
     color: #51230c;
     text-align: left;
+    font-family: otsikko;
 }
 
 header{
