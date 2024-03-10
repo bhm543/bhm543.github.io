@@ -26,6 +26,10 @@ h2, h3 {
     font-family: otsikko;
 }
 
+#listaus {
+    font-family: otsikko;
+}
+
 header{
     text-align: center;
     padding-top: 20px;
