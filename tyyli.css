@@ -73,7 +73,7 @@ nav a:hover {
 .toimintakehote {
     border: 2px solid #6060ba;
     border-radius: 5px;
-    background-color: #6060ba;
+    background-color: #6060bad0;
     font-family: cursive;
     color: #51230c;
     padding: 16px 32px;
