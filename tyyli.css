@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    color: #51230c;
+    color:black;
     text-align: center;
     font-family: otsikko;
 }
@@ -21,14 +21,14 @@ p {
 }
 
 h2, h3 {
-    color: #51230c;
+    color:black;
     text-align: left;
     font-family: otsikko;
 }
 
 #listaus {
     font-family: otsikko;
-    color: #51230c;
+    color:black;
 }
 
 header{
@@ -42,7 +42,7 @@ header{
     text-align: center;
     text-decoration: none;
     background-color:antiquewhite;
-    color:#51230c;
+    color:black;
 }
 
 /*päävalikko*/
@@ -95,21 +95,18 @@ nav a:hover {
     border: 2px solid #B260B2;
     border-radius: 3px;
     background-color: #B260B2;
-    color:antiquewhite;
 }
 
 .grid-teksti2 {
     border: 2px solid #B260B2;
     border-radius: 3px;
     background-color: #B260B2;
-    color:antiquewhite;
 }
 
 .grid-teksti3 {
     border: 2px solid #B260B2;
     border-radius: 3px;
     background-color: #B260B2;
-    color: antiquewhite;
 }
 
 /*Tunnit välilehden asettelu*/
