@@ -125,6 +125,10 @@ nav a:hover {
     padding: 10px;
 }
 
+.grid-maisema2-kuva {
+    padding-top: 20px;
+}
+
 /*Footer, joka sivulla sama*/
 footer{
     font-family: sans-serif;
