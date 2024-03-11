@@ -184,6 +184,11 @@ footer{
         padding: 20px;
     }
 
+    #tunti-otsikko {
+        font-size: 20px;
+        padding: 20px;
+    }
+
     .toimintakehote {
         font-size: 18px;
     }
@@ -263,6 +268,14 @@ nav a {
  }
 
  #slogan {
+    font-size: 40px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+
+ #tunti-otsikko {
     font-size: 40px;
     padding-top: 100px;
     padding-bottom: 20px;
@@ -357,6 +370,13 @@ nav a {
     padding-right: 200px;
 }
 
+#tunti-otsikko {
+    font-size: 65px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
 .toimintakehote {
     font-size: 20px;
 }
