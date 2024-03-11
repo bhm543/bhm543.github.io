@@ -112,6 +112,10 @@ nav a:hover {
     color: antiquewhite;
 }
 
+.sisalto {
+    color: antiquewhite;
+}
+
 /*Tunnit välilehden asettelu*/
 .grid-tunnit1 {grid-area: g1;}
 .grid-maisema2-kuva {grid-area: g2;}
