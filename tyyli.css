@@ -107,7 +107,7 @@ nav a:hover {
 .grid-container {
     display: grid;
     gap: 10px;
-    padding: 10px;
+    padding: 20px;
 }
 
 .grid-teksti1 {
