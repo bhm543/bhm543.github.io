@@ -41,13 +41,8 @@ header{
     padding: 10px;
     text-align: center;
     text-decoration: none;
-    background-color: #42b8d3c5;
-    color: #6060ba;
-    font-size: 18px;
-}
-
-.fa:hover {
-    opacity: 0.6;
+    background-color:antiquewhite;
+    color:#51230c;
 }
 
 /*päävalikko*/
