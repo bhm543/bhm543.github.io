@@ -85,6 +85,10 @@ nav a:hover {
     cursor: pointer;
 }
 
+.toimintakehote2 {
+    padding-top: 50px;
+}
+
 /*Pääsivun sisällön asettelu*/
 .grid-teksti1 {grid-area: g1;}
 .grid-teksti2 {grid-area: g2;}
