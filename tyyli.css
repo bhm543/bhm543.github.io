@@ -1,6 +1,5 @@
 body {
-    background-color: antiquewhite;
-    font-size: 16px;
+    background-color:beige;
 }
 
 /*Fontit*/
@@ -109,6 +108,18 @@ nav a:hover {
     background-color: #B260B2;
 }
 
+.grid-tunnit1 {
+    border: 2px solid #ffa42c;
+    border-radius: 5px;
+    background-color: #ffa42c;
+}
+
+.grid-muut-tunnit {
+    border: 2px solid #f27c3b;
+    border-radius: 5px;
+    background-color: #f27c3b;
+}
+
 /*Tunnit välilehden asettelu*/
 .grid-tunnit1 {grid-area: g1;}
 .grid-maisema2-kuva {grid-area: g2;}
@@ -183,7 +194,7 @@ footer{
     }
 
     p {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     #paasivu {
@@ -264,7 +275,7 @@ nav a {
  }
 
  p {
-    font-size: 20px;
+    font-size: 18px;
  }
 
  #paasivu {
@@ -344,7 +355,7 @@ h3 {
 }
 
 p {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #paasivu {
