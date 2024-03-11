@@ -30,6 +30,12 @@ h2, h3 {
     color:black;
 }
 
+.some-lista {
+    font-family: otsikko;
+    color: black;
+    gap: 10px;
+}
+
 header{
     text-align: center;
     padding-top: 20px;
