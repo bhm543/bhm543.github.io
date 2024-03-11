@@ -170,7 +170,7 @@ footer{
     }
 
     .yhteystiedot-sisalto {
-        margin: 3% 5% 3% 5%;
+        margin: 3% 10% 3% 10%;
         padding-top: 50px;
         flex-direction: column;
     }
@@ -251,7 +251,7 @@ nav a {
  }
 
  .yhteystiedot-sisalto {
-    margin: 3% 5% 3% 5%;
+    margin: 3% 10% 3% 10%;
     padding-top: 50px;
     flex-direction: column;
  }
@@ -332,7 +332,7 @@ nav a {
 }
 
 .yhteystiedot-sisalto {
-    margin: 3% 5% 3% 5%;
+    margin: 3% 15% 3% 15%;
     padding-top: 100px;
 }
 
