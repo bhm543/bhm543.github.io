@@ -186,7 +186,7 @@ footer{
 
     .toimintakehote2 {
         font-size: 18px;
-        padding-top: 50px;
+        padding-top: 20px;
     }
 
     .sisalto {
@@ -272,6 +272,7 @@ nav a {
 
  .toimintakehote2 {
     font-size: 20px;
+    padding-top: 20px;
  }
 
  .sisalto {
@@ -358,6 +359,7 @@ nav a {
 
 .toimintakehote2 {
     font-size: 20px;
+    padding-top: 50px;
 }
 
 .sisalto {
