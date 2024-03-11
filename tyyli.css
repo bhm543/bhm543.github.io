@@ -38,7 +38,7 @@ header{
 
 /*Some ikoni*/
 .fa {
-    padding: 10px;
+    padding: 15px;
     text-align: center;
     text-decoration: none;
     background-color:antiquewhite;
@@ -189,6 +189,10 @@ footer{
         font-size: 18px;
     }
 
+    p {
+        font-size: 18px;
+    }
+
     #paasivu {
         grid-template-areas: 
         'g1'
@@ -266,6 +270,10 @@ nav a {
     font-size: 20px;
  }
 
+ p {
+    font-size: 20px;
+ }
+
  #paasivu {
     grid-template-areas: 
     'g1'
@@ -339,6 +347,10 @@ h2 {
 }
 
 h3 {
+    font-size: 25px;
+}
+
+p {
     font-size: 25px;
 }
 
