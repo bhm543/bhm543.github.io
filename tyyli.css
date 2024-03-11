@@ -239,12 +239,6 @@ footer{
         'g3';
     }
 
-    .grid-yhteystiedot {
-        grid-template-areas: 
-        'g1'
-        'g2';
-    }
-
     footer {
         flex-direction: column;
         text-align: center;
