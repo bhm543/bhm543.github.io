@@ -33,6 +33,7 @@ h2, h3 {
 .some-lista {
     font-family: otsikko;
     color: black;
+    padding-left: 50px;
 }
 
 header{
