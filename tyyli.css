@@ -67,8 +67,9 @@ nav a:hover {
 }
 
 #valittu {
-    color:antiquewhite;
-    background-color: #6060ba;
+    color: #6060ba;
+    background-color: antiquewhite;
+    border: #6060ba;
 }
 
 .toimintakehote {
