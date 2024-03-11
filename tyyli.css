@@ -182,6 +182,10 @@ footer{
         font-size: 18px;
     }
 
+    .toimintakehote2 {
+        font-size: 18px;
+    }
+
     .sisalto {
         margin: 3% 5% 3% 5%;
     }
@@ -269,6 +273,10 @@ nav a {
     font-size: 20px;
  }
 
+ .toimintakehote2 {
+    font-size: 20px;
+ }
+
  .sisalto {
     margin: 3% 5% 3% 5%;
  }
@@ -348,6 +356,10 @@ nav a {
 }
 
 .toimintakehote {
+    font-size: 20px;
+}
+
+.toimintakehote2 {
     font-size: 20px;
 }
 
