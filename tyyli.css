@@ -16,7 +16,7 @@ h1 {
 }
 
 p {
-    color:beige;
+    color:black;
     font-family: otsikko;
 }
 
@@ -109,10 +109,6 @@ nav a:hover {
     border: 2px solid #B260B2;
     border-radius: 3px;
     background-color: #B260B2;
-    color: antiquewhite;
-}
-
-.sisalto {
     color: antiquewhite;
 }
 
