@@ -25,11 +25,13 @@ h2, h3 {
     font-family: otsikko;
 }
 
+/*Tuntivalikoimasta löytyvä lista*/
 #listaus {
     font-family: otsikko;
     color:black;
 }
 
+/*Yhteystiedot sivulta löytyvä lista*/
 .some-lista {
     font-family: otsikko;
     color: black;
@@ -72,6 +74,7 @@ nav a:hover {
     border: 2px solid #6060ba;
 }
 
+/*Etusivun CTA*/
 .toimintakehote {
     border: 2px solid #6060ba;
     border-radius: 5px;
@@ -86,6 +89,7 @@ nav a:hover {
     cursor: pointer;
 }
 
+/*Tunnit sivun CTA*/
 .toimintakehote2 {
     border: 2px solid #6060ba;
     border-radius: 5px;
